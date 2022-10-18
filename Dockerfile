@@ -1,4 +1,4 @@
-FROM ghcr.io/amirulandalib/mltb-alpine-docker:latest
+FROM amirulandalib/mltb-alpine-docker:latest
 
 # if you want to load image from dockerhub then replace the above one with this one 👇
 # FROM amirulandalib/mltb-alpine-docker:latest
